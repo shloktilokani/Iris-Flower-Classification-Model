@@ -1,11 +1,8 @@
 # 🌼 **Iris Flower Classification — Machine Learning Project**
 
-## 📘 *MBA IT - Data Analytics Project*
+---
 
-### 👨‍🎓 **Team Members**
-
-- **Avash Sahu** (ID: 24030141012)
-- **Shlok Tilokani** (ID: 24030141072)
+![Iris Flower Classification](res/video.gif)
 
 ---
 

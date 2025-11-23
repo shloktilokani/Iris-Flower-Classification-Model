@@ -1,6 +1,6 @@
 # 🌼 **Iris Flower Classification — Machine Learning Project**
 
-## 📘 *Assessment 2 — MBA IT (Data Analytics)*
+## 📘 *MBA IT - Data Analytics Project*
 
 ### 👨‍🎓 **Team Members**
 

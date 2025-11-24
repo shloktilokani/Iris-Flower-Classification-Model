@@ -199,6 +199,20 @@ This project demonstrates the complete ML workflow: data loading, preprocessing,
 
 ---
 
+## 👥 Contributors
+
+We are a team of five members who collaborated on this data analysis project. Connect with us:
+
+- **Shlok Tilokani**  
+  - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shloktilokani)  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shloktilokani/)
+
+- **Avash Sahu**  
+  - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avashsahu)  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avashsahu/)
+
+---
+
 ## ⭐ **Thank You!**
 
 Feel free to ⭐ star the repo if you found this helpful!
